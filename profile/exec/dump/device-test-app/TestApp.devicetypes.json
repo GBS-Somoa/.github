@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8231"
+  },
+  "type": "refrigerator"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8232"
+  },
+  "type": "washer"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8233"
+  },
+  "type": "humidifier"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8234"
+  },
+  "type": "dehumidifier"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8235"
+  },
+  "type": "airPurifier"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8236"
+  },
+  "type": "steamCloset"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8237"
+  },
+  "type": "dishwasher"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8238"
+  },
+  "type": "vaccumCleaner"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d8239"
+  },
+  "type": "waterPurifier"
+},
+{
+  "_id": {
+    "$oid": "65f7d17fcedde2c9da7d823a"
+  },
+  "type": "airConditioner"
+}]

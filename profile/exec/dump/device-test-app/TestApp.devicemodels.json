@@ -1,0 +1,407 @@
+[{
+  "_id": {
+    "$oid": "65f9b45d4b645ecf020dc75b"
+  },
+  "deviceModel": "test2",
+  "deviceManufacturer": "test2",
+  "deviceType": "test2",
+  "supplies": [
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "공기청정기 좌측 필터(교체형)",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    },
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "공기청정기 우측 필터(교체형)",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab1b857c4784439567195"
+  },
+  "deviceModel": "BESPOKE 정수기 냉장고 4도어 829 L",
+  "deviceManufacturer": "Samsung",
+  "deviceType": "refrigerator",
+  "supplies": [
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "BESPOKE 냉장고&정수기(모듈형) 4단계 교체용 정수필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab21557c478443956719b"
+  },
+  "deviceModel": "BESPOKE 그랑데 세탁기 AI 21 kg",
+  "deviceManufacturer": "Samsung",
+  "deviceType": "washer",
+  "supplies": [
+    {
+      "supplyType": "washerDetergent",
+      "supplyName": "세탁세제",
+      "dataProvided": [
+        "supplyAmount"
+      ]
+    },
+    {
+      "supplyType": "fabricSoftener",
+      "supplyName": "섬유유연제",
+      "dataProvided": [
+        "supplyAmount"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab28f57c47844395671a2"
+  },
+  "deviceModel": "인버터 제습기",
+  "deviceManufacturer": "Samsung",
+  "deviceType": "dehumidifier",
+  "supplies": [
+    {
+      "supplyType": "drainTank",
+      "supplyName": "배수통",
+      "dataProvided": [
+        "supplyLevel",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab35b57c47844395671b3"
+  },
+  "deviceModel": "BESPOKE 에어드레서",
+  "deviceManufacturer": "Samsung",
+  "deviceType": "steamCloset",
+  "supplies": [
+    {
+      "supplyType": "cleanableFilter",
+      "supplyName": "미세먼지 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    },
+    {
+      "supplyType": "drainTank",
+      "supplyName": "배수통",
+      "dataProvided": [
+        "supplyLevel",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab3ed57c47844395671bf"
+  },
+  "deviceModel": "BESPOKE 제트 AI 310W",
+  "deviceManufacturer": "Samsung",
+  "deviceType": "vaccumCleaner",
+  "supplies": [
+    {
+      "supplyType": "dustBin",
+      "supplyName": "먼지봉투",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    },
+    {
+      "supplyType": "cleanableFilter",
+      "supplyName": "모터 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    },
+    {
+      "supplyType": "cleanableFilter",
+      "supplyName": "고성능 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab42a57c47844395671c5"
+  },
+  "deviceModel": "BESPOKE 정수기",
+  "deviceManufacturer": "Samsung",
+  "deviceType": "waterPurifier",
+  "supplies": [
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "교체용 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab4df57c47844395671d1"
+  },
+  "deviceModel": "LG 디오스 오브제컬렉션",
+  "deviceManufacturer": "LG",
+  "deviceType": "refrigerator",
+  "supplies": [
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "정수 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab50557c47844395671d7"
+  },
+  "deviceModel": "LG 트롬 오브제컬렉션",
+  "deviceManufacturer": "LG",
+  "deviceType": "washer",
+  "supplies": [
+    {
+      "supplyType": "washerDetergent",
+      "supplyName": "세탁 세제",
+      "dataProvided": [
+        "supplyAmount"
+      ]
+    },
+    {
+      "supplyType": "fabricSoftener",
+      "supplyName": "섬유 유연제",
+      "dataProvided": [
+        "supplyAmount"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab53f57c47844395671dd"
+  },
+  "deviceModel": "LG 퓨리케어 자연기화 가습기",
+  "deviceManufacturer": "LG",
+  "deviceType": "humidifier",
+  "supplies": [
+    {
+      "supplyType": "supplyTank",
+      "supplyName": "급수통",
+      "dataProvided": [
+        "supplyLevel",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab56357c47844395671e3"
+  },
+  "deviceModel": "LG 휘센 제습기",
+  "deviceManufacturer": "LG",
+  "deviceType": "dehumidifier",
+  "supplies": [
+    {
+      "supplyType": "drainTank",
+      "supplyName": "배수통",
+      "dataProvided": [
+        "supplyLevel",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab5a057c47844395671fd"
+  },
+  "deviceModel": "LG 퓨리케어 오브제컬렉션 360˚ 공기청정기",
+  "deviceManufacturer": "LG",
+  "deviceType": "airPurifier",
+  "supplies": [
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "교체용 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab5f557c4784439567205"
+  },
+  "deviceModel": "LG 스타일러 오브제컬렉션",
+  "deviceManufacturer": "LG",
+  "deviceType": "steamCloset",
+  "supplies": [
+    {
+      "supplyType": "drainTank",
+      "supplyName": "배수통",
+      "dataProvided": [
+        "supplyLevel",
+        "supplyChangeDate"
+      ]
+    },
+    {
+      "supplyType": "cleanableFilter",
+      "supplyName": "미세먼지 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab62657c478443956720b"
+  },
+  "deviceModel": " LG 디오스 오브제컬렉션 식기세척기",
+  "deviceManufacturer": "LG",
+  "deviceType": "dishwasher",
+  "supplies": [
+    {
+      "supplyType": "dishDetergent",
+      "supplyName": "식기세척기 세제",
+      "dataProvided": [
+        "supplyAmount"
+      ]
+    },
+    {
+      "supplyType": "dishRinse",
+      "supplyName": "식기세척기 린스",
+      "dataProvided": [
+        "supplyAmount"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab64b57c4784439567211"
+  },
+  "deviceModel": "LG 코드제로 A9 Air",
+  "deviceManufacturer": "LG",
+  "deviceType": "vaccumCleaner",
+  "supplies": [
+    {
+      "supplyType": "dustBin",
+      "supplyName": "먼지봉투",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab66f57c4784439567217"
+  },
+  "deviceModel": "LG 퓨리케어 오브제컬렉션 정수기",
+  "deviceManufacturer": "LG",
+  "deviceType": "waterPurifier",
+  "supplies": [
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "교체용 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ab6c157c478443956721d"
+  },
+  "deviceModel": "LG 휘센 오브제컬렉션 타워I 에어컨",
+  "deviceManufacturer": "LG",
+  "deviceType": "airConditioner",
+  "supplies": [
+    {
+      "supplyType": "cleanableFilter",
+      "supplyName": "공기청정 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    },
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "극세필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ac4ee57c4784439567299"
+  },
+  "deviceModel": "CFX-G100D",
+  "deviceManufacturer": "Samsung",
+  "deviceType": "airPurifier",
+  "supplies": [
+    {
+      "supplyType": "replaceableFilter",
+      "supplyName": "공기청정기 필터",
+      "dataProvided": [
+        "supplyStatus",
+        "supplyChangeDate"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660ac9f557c47844395672c0"
+  },
+  "deviceModel": "BESPOKE 식기세척기 키친핏",
+  "deviceManufacturer": "Samsung",
+  "deviceType": "dishwasher",
+  "supplies": [
+    {
+      "supplyType": "dishDetergent",
+      "supplyName": "식기세척기 세제",
+      "dataProvided": [
+        "supplyAmount"
+      ]
+    }
+  ]
+}]

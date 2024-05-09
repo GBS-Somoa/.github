@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d823c"
+  },
+  "type": "washerDetergent",
+  "dataProvided": [
+    "supplyAmount"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d823d"
+  },
+  "type": "fabricSoftener",
+  "dataProvided": [
+    "supplyAmount"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d823e"
+  },
+  "type": "dishDetergent",
+  "dataProvided": [
+    "supplyAmount"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d823f"
+  },
+  "type": "dishRinse",
+  "dataProvided": [
+    "supplyAmount"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d8240"
+  },
+  "type": "cleanableFilter",
+  "dataProvided": [
+    "supplyStatus",
+    "supplyChangeDate"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d8241"
+  },
+  "type": "replaceableFilter",
+  "dataProvided": [
+    "supplyStatus",
+    "supplyChangeDate"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d8242"
+  },
+  "type": "supplyTank",
+  "dataProvided": [
+    "supplyLevel",
+    "supplyChangeDate"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d8243"
+  },
+  "type": "drainTank",
+  "dataProvided": [
+    "supplyLevel",
+    "supplyChangeDate"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f7d18fcedde2c9da7d8244"
+  },
+  "type": "dustBin",
+  "dataProvided": [
+    "supplyStatus",
+    "supplyChangeDate"
+  ]
+}]

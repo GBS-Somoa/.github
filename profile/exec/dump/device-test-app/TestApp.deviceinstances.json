@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "65f990a66b4a4be53764a267"
+  },
+  "deviceModelId": {
+    "$oid": "65f9b45d4b645ecf020dc75b"
+  },
+  "deviceId": "test2"
+},
+{
+  "_id": {
+    "$oid": "6609839bde71a27231bc0f7d"
+  },
+  "deviceModelId": {
+    "$oid": "66098394de71a27231bc0f75"
+  },
+  "deviceId": "2f920f7f77a46494"
+},
+{
+  "_id": {
+    "$oid": "660ab71a57c478443956723c"
+  },
+  "deviceModelId": {
+    "$oid": "660ab28f57c47844395671a2"
+  },
+  "deviceId": "265151418454e435"
+},
+{
+  "_id": {
+    "$oid": "660ab73757c4784439567243"
+  },
+  "deviceModelId": {
+    "$oid": "660ab21557c478443956719b"
+  },
+  "deviceId": "83fda7d6c1828665"
+},
+{
+  "_id": {
+    "$oid": "660ac4f257c47844395672a1"
+  },
+  "deviceModelId": {
+    "$oid": "660ac4ee57c4784439567299"
+  },
+  "deviceId": "9b6f1b434e57646e"
+},
+{
+  "_id": {
+    "$oid": "660ac9fb57c47844395672ca"
+  },
+  "deviceModelId": {
+    "$oid": "660ac9f557c47844395672c0"
+  },
+  "deviceId": "94169f32ebad06fd"
+}]
